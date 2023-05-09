@@ -1,3 +1,5 @@
+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
+
 1)
 TCP 핸드쉐이크
 step1. 서버측 켜두기
